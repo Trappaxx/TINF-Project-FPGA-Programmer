@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UART_test", "UART_test\UART_test.csproj", "{BD6CB37A-24E1-46BD-98A1-67ABEE0DD4D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elmLib.UART", "..\elmLib.UART\elmLib.UART\elmLib.UART.csproj", "{F1D30D50-9BE8-4A3E-8134-BE4019C11E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6CB37A-24E1-46BD-98A1-67ABEE0DD4D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD6CB37A-24E1-46BD-98A1-67ABEE0DD4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD6CB37A-24E1-46BD-98A1-67ABEE0DD4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD6CB37A-24E1-46BD-98A1-67ABEE0DD4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1D30D50-9BE8-4A3E-8134-BE4019C11E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1D30D50-9BE8-4A3E-8134-BE4019C11E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1D30D50-9BE8-4A3E-8134-BE4019C11E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1D30D50-9BE8-4A3E-8134-BE4019C11E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
