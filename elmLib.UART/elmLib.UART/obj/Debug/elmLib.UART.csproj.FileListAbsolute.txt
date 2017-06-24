@@ -1,0 +1,5 @@
+C:\Users\Sven Schlömmer\documents\visual studio 2015\Projects\elmLib.UART\elmLib.UART\obj\Debug\elmLib.UART.csprojResolveAssemblyReference.cache
+C:\Users\Sven Schlömmer\documents\visual studio 2015\Projects\elmLib.UART\elmLib.UART\bin\Debug\elmLib.UART.dll
+C:\Users\Sven Schlömmer\documents\visual studio 2015\Projects\elmLib.UART\elmLib.UART\bin\Debug\elmLib.UART.pdb
+C:\Users\Sven Schlömmer\documents\visual studio 2015\Projects\elmLib.UART\elmLib.UART\obj\Debug\elmLib.UART.dll
+C:\Users\Sven Schlömmer\documents\visual studio 2015\Projects\elmLib.UART\elmLib.UART\obj\Debug\elmLib.UART.pdb
